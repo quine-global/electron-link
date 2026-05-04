@@ -12,7 +12,7 @@
   "devDependencies": {
     "dedent": "1.7.2",
     "electron": "^9",
-    "electron-mocha": "^10.0.0",
+    "electron-mocha": "^13.1.0",
     "mocha": "^8.2.1",
     "rimraf": "3.0.2",
     "temp": "0.9.4"
