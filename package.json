@@ -1,6 +1,6 @@
 {
   "name": "electron-link",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Generates scripts to pass to V8's `mksnapshot` tool.",
   "main": "lib/index.js",
   "scripts": {
@@ -20,10 +20,8 @@
   "dependencies": {
     "acorn": "^8.0.4",
     "ast-util-plus": "^0.7.1",
-    "encoding-down": "^6.3.0",
+    "classic-level": "^1.4.1",
     "indent-string": "^4.0.0",
-    "leveldown": "^5.6.0",
-    "levelup": "^4.4.0",
     "recast": "^0.20.4",
     "resolve": "^1.19.0",
     "source-map": "^0.7.3"
