@@ -4,7 +4,9 @@ import { dag, Directory, object, func } from "@dagger.io/dagger"
 class ElectronLink {
   @func()
   async ci(
-    // +defaultPath="."
+    /**
+     * +defaultPath="."
+     */
     src: Directory,
   ): Promise<void> {
     await dag
