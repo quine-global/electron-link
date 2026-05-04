@@ -1,0 +1,6 @@
+dagger.gen.ts
+internal/dagger
+internal/querybuilder
+internal/telemetry
+node_modules
+.env

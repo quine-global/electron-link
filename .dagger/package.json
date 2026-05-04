@@ -1,0 +1,7 @@
+{
+  "name": "electron-link-dagger",
+  "module": "src/index.ts",
+  "dependencies": {
+    "@dagger.io/dagger": "0.20.6"
+  }
+}
