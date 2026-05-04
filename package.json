@@ -20,7 +20,7 @@
   "dependencies": {
     "acorn": "^8.0.4",
     "ast-util-plus": "^0.7.1",
-    "classic-level": "^1.4.1",
+    "classic-level": "^3.0.0",
     "indent-string": "^4.0.0",
     "recast": "^0.20.4",
     "resolve": "^1.19.0",
