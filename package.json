@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "dedent": "1.7.2",
-    "electron": "^9",
+    "electron": "^42",
     "electron-mocha": "^13.1.0",
     "mocha": "^8.2.1",
     "rimraf": "3.0.2",
